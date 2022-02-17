@@ -22,7 +22,7 @@ const estilos =StyleSheet.create({
     },
     carrinho:{
         position:"absolute",
-        padding: 40,
+        padding: 61,
         textAlign: 'center',
         width: width,
         fontSize:20,
